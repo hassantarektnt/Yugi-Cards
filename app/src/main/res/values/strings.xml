@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Yu-Gi-Oh Cards</string>
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="card_details">Card Details</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="settings">Settings</string>
+    <string name="key_pref_card_type">key_pref_card_type</string>
+    <string name="card_type">Card Type</string>
+
+    <string name="monster_readable">Monster</string>
+    <string name="spell_readable">Spell</string>
+    <string name="trap_readable">Trap</string>
+
+
+    <string name="monster">monster</string>
+    <string name="spell">spell</string>
+    <string name="trap">trap</string>
+    <string name="share">Share</string>
+    <string name="share_card">Share The Card</string>
+
+    <array name="card_types_readable">
+        <item>@string/monster_readable</item>
+        <item>@string/spell_readable</item>
+        <item>@string/trap_readable</item>
+    </array>
+
+    <array name="card_types">
+        <item>@string/monster</item>
+        <item>@string/spell</item>
+        <item>@string/trap</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

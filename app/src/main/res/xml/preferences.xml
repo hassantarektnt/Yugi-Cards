@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <ListPreference
+        android:defaultValue="@string/monster"
+        android:entries="@array/card_types_readable"
+        android:entryValues="@array/card_types"
+        android:key="@string/key_pref_card_type"
+        android:summary="%s"
+        android:title="@string/card_type"
+        />
+
+
+</PreferenceScreen>
